@@ -1,6 +1,6 @@
 ### I'm Adi Rifta 👋
 
-- 🔭 I’m currently working on Mahasiswa
+- 🔭 Currently I have just graduated from Semarang State Polytechnic
 - 🌱 I’m currently learning Android and Web Developer
 - 📫 How to reach me: adiriftadk@gmail.com
 
