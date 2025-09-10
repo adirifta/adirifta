@@ -1,6 +1,6 @@
 ### I'm Adi Rifta 👋
 
-- 🔭 Currently I have just graduated from Semarang State Polytechnic
+- 🔭 Currently I have just graduated with a bachelor's degree in computer engineering technology
 - 🌱 I’m currently learning Android and Web Developer
 - 📫 How to reach me: adiriftadk@gmail.com
 
